@@ -1,0 +1,10 @@
+{
+  "name": "jil-construction-site",
+  "version": "1.0.0",
+  "description": "Multi-page website for JIL Construction with contact form backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
